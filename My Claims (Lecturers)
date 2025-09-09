@@ -1,0 +1,9 @@
+@* Views/Claims/Index.cshtml *@
+<h2>My Claims</h2>
+<table class="table table-striped">
+  <thead><tr><th>Contract</th><th>Period</th><th>Total</th><th>Status</th></tr></thead>
+  <tbody>
+    <tr><td>CN-001</td><td>2025-08</td><td>$1,250</td><td><span class="badge bg-warning">Submitted</span></td></tr>
+    <tr><td>CN-002</td><td>2025-07</td><td>$800</td><td><span class="badge bg-success">Approved</span></td></tr>
+  </tbody>
+</table>

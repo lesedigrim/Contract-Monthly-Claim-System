@@ -1,0 +1,17 @@
+# Contract Monthly Claim System (Prototype)
+
+This repository contains the **prototype design** for the Contract Monthly Claim System.  
+It includes:
+- UML Class Diagram (Database Design)
+- Project Plan (with Gantt Chart)
+- GUI Design (Wireframes + PDF)
+- MVC Front-End Prototype (non-functional)
+
+## Usage
+This is **only a front-end prototype**. All buttons and forms are disabled; it is intended for demonstration purposes only.
+
+## Structure
+- `docs/` → All documentation (PDFs, diagrams, plans).
+- `src/` → Source code (MVC/WPF prototypes).
+- `images/` → UML diagrams and assets.
+

@@ -1,0 +1,19 @@
+@* Views/Claims/Create.cshtml *@
+<h2>Submit Claim</h2>
+<form>
+  <fieldset disabled>
+    <div class="mb-3">
+      <label class="form-label">Contract No</label>
+      <input class="form-control" placeholder="e.g., CN-001" />
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Period</label>
+      <input class="form-control" placeholder="YYYY-MM" />
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Supporting Documents</label>
+      <input type="file" class="form-control" />
+    </div>
+    <button class="btn btn-primary" type="button" disabled>Submit Claim</button>
+  </fieldset>
+</form>

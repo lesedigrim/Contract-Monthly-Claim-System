@@ -1,0 +1,15 @@
+Contract-Monthly-Claim-System/
+│
+├── docs/  
+│   ├── UML_Contract_Monthly_Claim_System.pdf  
+│   ├── ProjectPlan_CMCS.pdf  
+│   ├── CMCS_GUI_Wireframes.pdf  
+│   └── CMCS_GUI_Design_Prototype.pdf  
+│
+├── images/  
+│   └── UML_Contract_Monthly_Claim_System.png  
+│
+├── src/  
+│   └── MVC_Prototype/   # the non-functional MVC prototype you downloaded earlier
+│
+└── README.md   # project overview
